@@ -1,0 +1,7 @@
+{
+    "conpilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "noImplicitAny": true
+    }
+}
